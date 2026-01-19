@@ -1,4 +1,4 @@
-# ML-Particle-Prediction Basic Section
+# Machine Learning Particle Prediction
 
 # Abstract
 How accuratly can a trained model predict particle energy in a set box? The model only sees $n$ and $L$ in $$E_n = \frac{n^2 h^2}{8 m L^2}$$, and tries to predict $E$ based on training. This project shows limitations of ML when it comes to calculating things like this. It tries to predict based on only patterns, not actual physics. I sectioned this project off into different versions, each getting more in depth. Use the dropdown below to access them.
