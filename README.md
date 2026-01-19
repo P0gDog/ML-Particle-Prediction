@@ -26,7 +26,7 @@ Error based on Energy Level:
 
 <img width="784" height="573" alt="Error based on Energy Level" src="https://github.com/user-attachments/assets/f08c057a-514d-4079-98b3-11e8bff25151" />
 
-I found the above image quite odd. Why were the chart of errors so random? Shouldn't they be linear? After looking into it, I realized why. The machine was trained on different energly levels at random amounts. The chart below helps visualize this.
+I found the above image quite odd. Why were the chart of errors so random? Shouldn't they be linear? After looking into it, I realized why. The machine was trained on different energly levels at random amounts. The machine was better at predicting energy levels it was trained more on.The example in the chart below helps visualize this.
 | n | Training samples |
 |:-:|:----------------:|
 | 1 | 140              |
